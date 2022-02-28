@@ -4,7 +4,6 @@ Soy ingeniero en Informática, tengo experiencia programando para empresas de ta
 
 Siempre estoy dispuesto a aprender algo de los demás y poner en marcha mi aprendizaje. 
 
-¡Siempre es un gusto colaborar!
 
 Contacto: 
   <b><a>josepablodelgadillo@gmail.com</a></b>
