@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Delgadillox
-- 👀 I’m interested in learn new things everyday
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me josepablodelgadillo@gmail.com
+¡Hola a todos! mi nombre es Pablo Delgadillo (<b>@Delgadillox</b>), actualmente resido en <b>México</b> dentro de la comarca Lagunera.
+
+Soy ingeniero en Informática, tengo experiencia programando para empresas de tamaño pequeño y mediano dentro de mi localidad. Considero que la programación es algo que me apasiona mucho y me encanta aprender cada día algo nuevo.
+
+Siempre estoy dispuesto a aprender algo de los demás y poner en marcha mi aprendizaje. 
+
+¡Siempre es un gusto colaborar!
+
+Contacto: 
+  <b><a>josepablodelgadillo@gmail.com</a></b>
+
+
 
 <!---
 Delgadillox/Delgadillox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
